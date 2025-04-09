@@ -80,5 +80,4 @@ ainfinaemvie ==omcoamoemv==
 Syntax Subscript C~O~2
 
 Syntax Superscript 
-X^2^
-
+X<sup>2</sup>

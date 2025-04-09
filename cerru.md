@@ -76,8 +76,7 @@ Syntax Emoji
 KADNVIENICMEAONV :joy:
 
 Syntax Highlight
-ainfinaemvie ==omcoamoemv==
-
+ainfinaemvie <mark>very important words</mark>.
 Syntax Subscript C~O~2
 
 Syntax Superscript 

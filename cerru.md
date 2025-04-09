@@ -35,7 +35,7 @@ Syntax Link
  [MOCDMCIDMS](www.google.com)
 
 Syntax Link
- ![invencible mewing](C:\Users\elbin\mewing.jpeg)
+ ![invencible mewing](C:\Users\elbin\mewing.jpegC:\Users\elbin\Repositorios\Clase 3)
 
 Syntax Table
 | Syntax | Description |

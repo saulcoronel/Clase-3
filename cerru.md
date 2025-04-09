@@ -53,8 +53,9 @@ Syntax Fenced Code Black
 ---
 
 Syntax Footnote
-Skibidi Text. [^1]
-[1^]:Skibidi Texto SIUUUU.
+Flint and steel. [^1]
+
+[^1]: Chicken Jockey.
 
 Syntax Heading ID 
 ### Mi gran texto SIUUUU {#custom-id}

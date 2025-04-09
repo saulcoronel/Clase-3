@@ -69,7 +69,7 @@ Syntax Strikethrough
 Syntax Task List 
 - [x] AODNVOEINV
 - [ ] CESCESC
-- [ ]CDSCSVSVSV
+- [ ] CDSCSVSVSV
 
 Syntax Emoji
 KADNVIENICMEAONV :joy:

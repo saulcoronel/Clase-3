@@ -35,7 +35,7 @@ Syntax Link
  [MOCDMCIDMS](www.google.com)
 
 Syntax Link
- ![invencible mewing](C:\Users\elbin\mewing.jpeg)
+ ![invencible mewing](C:\Users\elbin\Repositorios\Clase 3)
 
 Syntax Table
 | Syntax | Description |
@@ -53,8 +53,9 @@ Syntax Fenced Code Black
 ---
 
 Syntax Footnote
-Skibidi Text. [^1]
-[1^]:Skibidi Texto SIUUUU.
+Flint and steel. [^1]
+
+[^1]: Chicken Jockey.
 
 Syntax Heading ID 
 ### Mi gran texto SIUUUU {#custom-id}
@@ -69,16 +70,14 @@ Syntax Strikethrough
 Syntax Task List 
 - [x] AODNVOEINV
 - [ ] CESCESC
-- [ ]CDSCSVSVSV
+- [ ] CDSCSVSVSV
 
 Syntax Emoji
 KADNVIENICMEAONV :joy:
 
 Syntax Highlight
-ainfinaemvie ==omcoamoemv==
-
+ainfinaemvie <mark>very important words</mark>.
 Syntax Subscript C~O~2
 
 Syntax Superscript 
-X^2^
-
+X<sup>2</sup>
